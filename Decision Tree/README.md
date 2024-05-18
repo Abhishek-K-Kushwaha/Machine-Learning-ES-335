@@ -17,9 +17,6 @@ The objective of this project is to complete the implementation of the decision 
 - **`tree/base.py`:** Completed the DecisionTree class in this file.
 - **`tree/utils.py`:** Completed all utility functions required for the decision tree implementation.
 
-## Usage
-To check your solutions, run the `usage.py` file.
-
 
 # Decision Tree Demonstration 
 
