@@ -14,7 +14,6 @@ This folder contains implementations for image reconstruction tasks using matrix
   - A rectangular block of size 30x30
   - A random subset of 900 pixels
 - Used Gradient Descent until convergence for reconstruction.
-- Compared reconstructions using ALS and RFF + Linear Regression.
 - Plotted the selected regions, original, and reconstructed images.
 - Computed metrics such as RMSE and PSNR.
 
