@@ -11,8 +11,8 @@ This repository contains the projects developed as part of the "Machine Learning
 - **Objective**: Enhance image quality by implementing image super-resolution techniques.
 - **Method**: Utilized linear regression to improve the resolution of low-quality images.
 
-### 3. Predicting Missing Image Patches
-- **Objective**: Restore missing parts of images using predictive models.
+### 3. Predicting Missing Image Data
+- **Objective**: Restore missing patches and random datapoints of images using predictive models.
 - **Techniques Used**:
   - **Linear Regression with Random Fourier Features**: Enhanced prediction accuracy by mapping data to a higher-dimensional space.
   - **Alternating Least Squares**: Optimized the approximation of missing values in a collaborative filtering context.
